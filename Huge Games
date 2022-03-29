@@ -226,4 +226,4 @@
 
 
 
-loadstring(game:HttpGet("https://ghostbin.com/DR4g6/raw"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/iMC1zZUf"))()
